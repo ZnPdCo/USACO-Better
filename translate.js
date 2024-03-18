@@ -189,9 +189,9 @@ Dragon</a>，最近也推出了。</p>
 
 <h3>澄清，联系比赛组织者</h3>
 
-<p>如果您发现问题措辞不佳或存在歧义，您可以发送电子邮件给比赛组织者Brian Dean（<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="83e1e0e7e6e2edc3e0efe6eef0ecedade6e7f6">[email&#160;protected]</a>），请求澄清；您可能会收到不超过“仔细阅读问题”回复，尽管具有重要意义的澄清将在比赛页面上发布。</p>
+<p>如果您发现问题措辞不佳或存在歧义，您可以发送电子邮件给比赛组织者Brian Dean（<a href="/cdn-cgi/l/email-protection" class="__cf_email__">bcdean@clemson.edu</a>），请求澄清；您可能会收到不超过“仔细阅读问题”回复，尽管具有重要意义的澄清将在比赛页面上发布。</p>
 
-<p>如果您发送比赛邮件至<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6301000706020d23000f060e100c0d4d060716">[email&#160;protected]</a>，请确保主题包含“USACO”一词，并请合理考虑时区---美国东部标准时间（EST）的白天才会有回复。</p>
+<p>如果您发送比赛邮件至<a href="/cdn-cgi/l/email-protection" class="__cf_email__">bcdean@clemson.edu</a>，请确保主题包含“USACO”一词，并请合理考虑时区---美国东部标准时间（EST）的白天才会有回复。</p>
         `)
     }
     // 比赛页
